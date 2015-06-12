@@ -6,8 +6,8 @@
 # Step1. $python wordcount.py
 # Step2. input a target text file like word.txt
 # Result using word.txt 
-# most common word/count: the / 10 
-# most uncommon word/count: precise / 1
+# most common word/count: week / 10 
+# most uncommon word/count: Functions / 1
 # Have a enjoy!
 
 #define find the most common word
