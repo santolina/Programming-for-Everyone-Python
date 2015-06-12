@@ -1,14 +1,11 @@
-t's 'like you’re actually there'
-
-
-Facebook CEO Mark Zuckerberg laid out his vision for the Oculus Rift virtual reality headset in a Facebook post on Thursday that has racked up 70,081 likes and counting. Facebook bought the company behind the Rift, Oculus VR, last year in a deal worth $2 billion.
-
-Zuckerberg hailed the device as so much more than a gaming console with head straps, arguing that it could be used to transport users into three-dimensional movies and virtual social settings with their friends.
-
-“When you put on the Rift, you’ll be able to experience immersive virtual environments that create the feeling of ‘presence’ – like you’re actually there,” Zuckerberg wrote.
-
-He continued:
-
-“We developed state-of-the-art custom display technology to create immersive visuals, and precise head tracking, so you can move naturally in virtual environments. We integrated high quality VR audio into the Rift to convince your ears that you’re really there. And we invested a lot of effort in making the headset light, comfortable and easy to wear. Putting on the Rift is as easy as putting on a baseball cap.”
-
-Oculus’ Rift headset will release in early 2016. Oculus has not yet disclosed the price for a headset.
+Week One: Introduction - Why we program?
+Week Two: Variables and Expressions
+Week Three: Conditional code
+Week Four: Functions
+Week Five: Loops and Iteration
+Week Six: Strings
+Week Seven: Files
+Week Eight: Lists
+Week Nine: Dictionaries
+Week Ten: Tuples
+Optional Topic: Regular Expressions
