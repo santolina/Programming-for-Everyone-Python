@@ -1,4 +1,14 @@
 #!/bin/python
+#
+# This is a modified sample code on the Programming for Everyone (Python) provided by Michigan Univ.
+# Here is a link to this course: https://www.coursera.org/course/pythonlearn
+# How to use: 
+# Step1. $python wordcount.py
+# Step2. input a target text file like word.txt
+# Result using word.txt 
+# most common word/count: the / 10 
+# most uncommon word/count: precise / 1
+# Have a enjoy!
 
 #define find the most common word
 def findMostCommonWord(word, counts):
