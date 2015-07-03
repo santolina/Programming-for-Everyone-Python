@@ -9,7 +9,7 @@
 import random
 import string
 
-WORDLIST_FILENAME = "words.txt" # it should be modified for each your env.
+WORDLIST_FILENAME = "words4hangman.txt" # it should be modified for each your env.
 
 def loadWords():
     """
